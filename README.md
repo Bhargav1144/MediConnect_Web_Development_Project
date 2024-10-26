@@ -1,11 +1,3 @@
-Hello there! Bhargav here! 
-Nice to see you here.
-This repository contains a zip file, which upon unzipping and opening the "HomePage.html", showcases my "HealthCare" site project of a comapny named "Rxcellent".
-The site has many clickable links, which redirect to other webpages featuring different features. (make sure you edit the address in the href attribute in HTML files).
-The site includes webpages of HomePage of "Rxcellent", emergency contact, online medicine cart, booking appointments of a particular doctor, 
-helpline for emergencies and for ordering telemedicines.
-The zip file which includes all the files of type : 
-1. HTML
-2. CSS
-3. JS
-4. Img
+# MediConnect
+Collaborated in the design and implementation of "Rxcellent Care," a healthcare application, employing HTML and CSS to construct a user-friendly interface, while utilizing JavaScript to enhance interactivity and Node.js with SQL for a solid backend architecture that successfully streamlined the processes of appointment scheduling and online medicine orders, as well as supporting telemedicine functionalities.
+Contributed significantly to the incorporation of emergency service options and telemedicine features, which improved user interaction and maximized system efficiency through collaborative efforts in AngularJS for effective content management and backend enhancements.
